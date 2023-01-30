@@ -1,5 +1,7 @@
-Building an NFT collection using **_React.js_**,**_Next.js_**,**_Ether.js_**,**_Hardhat_**,**_ERC721_** and **_Metamask_**.
+Building a NFT collection using **_React.js_**,**_Next.js_**,**_Ether.js_**,**_Hardhat_**,**_ERC721_** and **_Metamask_**.
 WhiteList users get access to NFTs before it has been released.This is an extension to project **Whitelist-Dapp**.
+
+![image](https://user-images.githubusercontent.com/90527884/215421985-776e9dc5-7d9f-4a71-93f3-3aa431555343.png)
 
 What is a **_Non-Fungible Token_**? Fungible means to be the same or interchangeable eg. Eth is fungible. With this in mind, NFTs are unique; each one is different. Every single token has unique characteristics and values. They are all distinguishable from one another and are not interchangeable eg Unique Art.
 
