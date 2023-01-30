@@ -1,4 +1,5 @@
 Building a NFT collection using **_React.js_**,**_Next.js_**,**_Ether.js_**,**_Hardhat_**,**_ERC721_** and **_Metamask_**.
+
 WhiteList users get access to NFTs before it has been released.This is an extension to project **Whitelist-Dapp**.
 
 ![image](https://user-images.githubusercontent.com/90527884/215421985-776e9dc5-7d9f-4a71-93f3-3aa431555343.png)
